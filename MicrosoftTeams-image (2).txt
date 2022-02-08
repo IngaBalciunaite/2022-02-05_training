@@ -1,0 +1,36 @@
+Praktikuojamés
+
+Pirma uZduotis Antra uzZduotis Tretia uzduotis Ketvirta uzduotis PenktauzZduotis Sesta uzZduotis
+
+ 
+
+Pirmoji uZduotis
+Sukurti numeruota saraSq su 5 naudingomis nuorodomis
+
+Trys nuorodos atsidaro tame paciame lange, dvi atsidaro kitame lange
+
+1. LightShot
+
+2. W3schools
+
+3. VSCode Shortcuts
+4. HTML validator
+5. HIML CheatSheet
+
+ 
+
+Grjzti j pagrindini
+
+ 
+
+Nuorody saraSas:
+
+LightShot - https://app.prntscr.com/en/index. html
+
+W3schools - https: //www.w3schools.com/html/
+
+VSCode Shortcuts - https://gist.github.com/bradtraversy/b28a0a361880141af928ada800a671d9
+HTML validator - https://validator.w3.org/nu/#textarea
+
+HTML CheatSheet - https://htmlcheatsheet.com/
+

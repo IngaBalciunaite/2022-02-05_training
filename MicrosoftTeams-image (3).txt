@@ -1,0 +1,37 @@
+Praktikuojamés
+
+PirmauZduotis Antrauzduotis Tretiauzduotis Ketvirtauzduotis Penktauzduotis Sesta uzduotis
+
+Antroji uZduotis
+
+Sukurti nenumeruotq sarasa su 5 naudingomis nuorodomis.
+Vietoj pavadinimo panaudoti logotipa ir u=déti title
+
+Trys nuorodos atsidaro tame pa¢iame lange, dvi atsidaro kitame lange.
+
+Bp 6 Uso
+G
+
+OO
+
+ 
+
+C@DEPEN
+
+Pm >K CSS-TRICKS
+
+Grjzti j pagrindini
+
+Nuorody saraSas:
+
+Unspalsh - https://unsplash.com/
+
+Google - https: //www.google.com/
+
+Codepen - https://codepen.io/
+
+Free Front-End - https://freefrontend.com/
+CSS TRICKS - https://css-tricks.com/guides/
+
+Title pavyzdys: img src="img/unsplash.png" alt="Free photos from Unspalsh" title="Free photos from Unspalsh" width="1e@px"
+
